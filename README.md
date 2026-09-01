@@ -18,7 +18,10 @@ I really enjoy playing games, and I'm a big fan of **Metal Gear**, **Red Dead Re
 
 I've also recently started trying to learn **guitar**. I'm still very much in the *"trying to make it sound good"* phase. 🎸
 
+I also enjoy playing **basketball** whenever I get the chance. 🏀
+
 Anyway, this is my little corner of GitHub. Feel free to look around!
+
 
 <br>
 

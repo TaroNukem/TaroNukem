@@ -1,7 +1,9 @@
 # Hello, I'm Daniel Rolando 👋
 
 <div align="center">
-    <img src="img/terminal.svg" alt="Header" width="800">
+
+  <img src="img/terminal.svg" alt="Header" width="800">
+
 </div>
 
 <br>
@@ -22,6 +24,17 @@ I also enjoy playing **basketball** whenever I get the chance. 🏀
 
 Anyway, this is my little corner of GitHub. Feel free to look around!
 
+<br>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taronukem)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
+
+</div>
 
 <br>
 
@@ -29,9 +42,13 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 <div align="center">
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&custom_title=WakaTime+Stats&card_width=800&line_height=25&layout=compact&display_format=time&disable_animations=false&hide_title=true&langs_count=6)](https://wakatime.com/@b860e6a6-2e86-4589-9069-df3ceeda98b1)
+<img src="https://raw.githubusercontent.com/TaroNukem/TaroNukem/main/wakatime/stats.svg" alt="WakaTime Stats">
 
 </div>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <br>
 
@@ -46,12 +63,12 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 </div>
 
-<br>
-
-
+</div>
 
 <br>
 
 <div align="center">
-    <i>Thanks for stopping by! 👋</i>
+
+<i>Thanks for stopping by! 👋</i>
+
 </div>

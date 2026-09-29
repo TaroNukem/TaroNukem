@@ -47,7 +47,7 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 August 2026 - To: 28 September 2026
+From: 31 August 2026 - To: 29 September 2026
 
 Total Time: 39 hrs 11 mins
 

@@ -44,25 +44,6 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 [![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&hide_title=true&langs_count=8)](https://nice-readme.vercel.app/wakatime)
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 31 August 2026 - To: 30 September 2026
-
-Total Time: 40 hrs 40 mins
-
-Java             23 hrs 23 mins        ██████████████▒░░░░░░░░░░   57.51 %
-HTML             5 hrs 3 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-Python           4 hrs 26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-CSS              4 hrs 5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Markdown         1 hr 47 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
-XML              44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
-GitIgnore file   14 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Text             11 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-CSV              6 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
-
-<!--END_SECTION:waka-->
 </div>
 <br>
 

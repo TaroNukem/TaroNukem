@@ -64,6 +64,6 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 <div align="center">
 
-<i>Thanks for stopping by! 👋</i>
+<i>Thanks for stopping by!👋</i>
 
 </div>

@@ -47,16 +47,17 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 </div>
 <br>
 
-## ⚡ Tech Stack
-
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
 <div align="center">
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)](https://www.python.org/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)](https://git-scm.com/)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)](https://www.linux.org/)
-
-</div>
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![SpringBoot](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
 
 </div>
 

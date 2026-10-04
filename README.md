@@ -58,9 +58,10 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taronukem)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rolando-22061137a/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:danielgomesrolando@gmail.com)
+[![X](https://img.shields.io/badge/X-14171A?style=flat-square&logo=x&logoColor=white)](https://x.com/taronukem)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
 
 </div>
 

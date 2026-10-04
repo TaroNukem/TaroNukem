@@ -8,21 +8,6 @@
 
 <br>
 
-## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
-![SpringBoot](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf)
-![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
-
-</div>
-
-<br>
 
 ## 🧑‍💻 About Me
 
@@ -39,6 +24,22 @@ I've also recently started trying to learn **guitar**. I'm still very much in th
 I also enjoy playing **basketball** whenever I get the chance. 🏀
 
 Anyway, this is my little corner of GitHub. Feel free to look around!
+
+<br>
+
+## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
+![SpringBoot](https://img.shields.io/badge/Spring-111?style=for-the-badge&logo=spring)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-111?style=for-the-badge&logo=thymeleaf)
+![HTML](https://img.shields.io/badge/HTML-111?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-111?style=for-the-badge&logo=css)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+
+</div>
 
 <br>
 

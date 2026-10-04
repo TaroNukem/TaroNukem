@@ -42,18 +42,6 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 <br>
 
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taronukem)
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
-
-</div>
-
-<br>
-
 ## ⌨️ Stats
 
 <div align="center">
@@ -65,6 +53,17 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 </div>
 <br>
 
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taronukem)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
+
+</div>
+
+<br>
 
 <div align="center">
 

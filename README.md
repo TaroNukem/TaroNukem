@@ -11,15 +11,15 @@
 
 E aí! Sou o Daniel 👋
 
-Sou estudante de Engenharia de Software e gosto de tudo que envolve tecnologia, computadores, jogos e música. Também sou curioso e sempre acabo aprendendo alguma coisa nova por aí.
+Sou estudante de Engenharia de Software e gosto muito de tecnologia, computadores, jogos e música. Também sou curioso e sempre acabo aprendendo alguma coisa nova por aí
 
-Torço pro Cruzeiro 💙🦊
+ Cruzeirense de sangue💙🦊 
 
-Curto bastante Metal Gear, Red Dead Redemption e Guitar Hero. 🎮
+Minhas nerdices favoritas são Metal Gear, Red Dead Redemption e Guitar Hero
 
-Recentemente comecei a aprender a tocar violão. Ainda tô naquela fase de tentar fazer as coisas soarem direito. 🎸
+Recentemente comecei a aprender a tocar violão. Ainda tô naquela fase de tentar fazer as coisas soarem direito 🎸
 
-Também gosto de jogar basquete sempre que dá. 🏀
+Também gosto de jogar basquete sempre que dá 🏀
 
 Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus projetos!
 

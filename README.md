@@ -46,7 +46,7 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 
 <div align="center">
 
-[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&custom_title=WakaTime+Stats&card_width=466&line_height=25&layout=compact&display_format=time&disable_animations=false&hide_title=true&langs_count=8&title_color=0066FF&icon_color=0066FF&ring_color=0066FF)](https://nice-readme.vercel.app/wakatime)
+[![WakaTime Stats](https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&layout=compact&display_format=time&card_width=466&line_height=25&langs_count=8&hide_title=true&hide=Markdown,XML,Bash,Text,CSV,GitIgnore%20file,Git,JSON,YAML,TOML,Properties,Java%20Properties,Dockerfile&theme=dark&border_color=0066FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&ring_color=0080FF)](https://nice-readme.vercel.app/wakatime)
 
 [![GitHub Stats](https://helio-github-stats.vercel.app/api?username=TaroNukem&custom_title=GitHub+Stats&theme=shadow_blue&title_color=0066FF&text_color=434d58&icon_color=0066FF&ring_color=0066FF&border_color=0066FF&hide_border=false&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 

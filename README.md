@@ -1,28 +1,27 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Rolando)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Rolando;Estudante+de+Engenharia+de+Software)
 
 </div>
 
 <br>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Sobre Mim
 
-Hey, I'm Daniel! 👋
+E aí! Sou o Daniel 👋
 
-I'm an engineering student and developer who likes computers, games, music, and learning random things just because I got curious about them.
+Sou estudante de Engenharia de Software e gosto de tudo que envolve tecnologia, computadores, jogos e música. Também sou curioso e sempre acabo aprendendo alguma coisa nova por aí.
 
-I'm also a **Cruzeiro** fan 💙🦊
+Torço pro Cruzeiro 💙🦊
 
-I really enjoy playing games, and I'm a big fan of **Metal Gear**, **Red Dead Redemption**, and **Guitar Hero**. 🎮
+Curto bastante Metal Gear, Red Dead Redemption e Guitar Hero. 🎮
 
-I've also recently started trying to learn **guitar**. I'm still very much in the *"trying to make it sound good"* phase. 🎸
+Recentemente comecei a aprender a tocar violão. Ainda tô naquela fase de tentar fazer as coisas soarem direito. 🎸
 
-I also enjoy playing **basketball** whenever I get the chance. 🏀
+Também gosto de jogar basquete sempre que dá. 🏀
 
-Anyway, this is my little corner of GitHub. Feel free to look around!
+Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus projetos!
 
 <br>
 
@@ -72,7 +71,7 @@ Anyway, this is my little corner of GitHub. Feel free to look around!
 
 <br>
 
-## 🌐 Connect with Me
+## 🌐 Entre em contato comigo
 
 <div align="center">
 

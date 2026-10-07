@@ -86,7 +86,7 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=435&lines=Obrigado+pela+visita!;Volte+sempre!;Mantenha+a+mente+focada.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Volte+sempre!;Você+erra+100%25+dos+arremessos+que+não+tenta)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer)
 
 </div>

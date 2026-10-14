@@ -87,6 +87,6 @@ Sou estudante de **Engenharia de Software** e gosto muito de tecnologia, computa
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita!+💙;Volte+sempre!;Você+erra+100%25+dos+arremessos+que+não+tenta+🏀)](https://github.com/TaroNukem)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer)
 
 </div>

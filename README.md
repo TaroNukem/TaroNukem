@@ -1,40 +1,38 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=header)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0066FF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Daniel+Rolando;Estudante+de+Engenharia+de+Software)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=200&section=header&text=Daniel%20Rolando&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Engenharia%20de%20Software%20•%20Backend%20Developer&descAlignY=58&descSize=18)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=0066FF&center=true&vCenter=true&width=700&lines=Olá,+meu+nome+é+Daniel+Rolando+👋;Estudante+de+Engenharia+de+Software+🎓;Buscando+minha+primeira+oportunidade+🚀)](https://github.com/TaroNukem)
 </div>
 
 <br>
 
 ## 🧑‍💻 Sobre Mim
 
-E aí! Sou o Daniel 👋
+E aí! Sou o **Daniel** 👋
 
-Sou estudante de Engenharia de Software e gosto muito de tecnologia, computadores, jogos e música. Também sou curioso e sempre acabo aprendendo alguma coisa nova por aí
+Sou estudante de **Engenharia de Software** e gosto muito de tecnologia, computadores, jogos e música. Também sou curioso e sempre acabo aprendendo alguma coisa nova por aí.
 
- Cruzeirense de sangue💙🦊 
+- 💙🦊 **Cruzeirense** de sangue
+- 🎮 Minhas nerdices favoritas: **Metal Gear**, **Red Dead Redemption** e **Guitar Hero**
+- 🎸 Comecei a aprender **violão** recentemente, ainda na fase de tentar fazer as coisas soarem direito
+- 🏀 Jogo **basquete** sempre que dá
+- 🎯 Foco atual: **Java + Spring Boot** e minha primeira vaga como **Backend Developer**
 
-Minhas nerdices favoritas são Metal Gear, Red Dead Redemption e Guitar Hero
-
-Recentemente comecei a aprender a tocar violão. Ainda tô naquela fase de tentar fazer as coisas soarem direito 🎸
-
-Também gosto de jogar basquete sempre que dá 🏀
-
-Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus projetos!
+> 💬 Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus projetos!
 
 <br>
 
-## <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/skills.svg?raw=true"/>&nbsp; Languages ​​and technologies:
+## 🛠️ Linguagens e Tecnologias
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0066FF?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-0066FF?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/Spring-0066FF?style=for-the-badge&logo=spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/Spring_Boot-0066FF?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0066FF?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0066FF?style=for-the-badge&logo=javascript&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-0066FF?style=for-the-badge&logo=thymeleaf&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0066FF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0066FF?style=for-the-badge&logo=css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-0066FF?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0066FF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white)
 
@@ -42,7 +40,7 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 
 <br>
 
-## ⌨️ Stats
+## 📊 Stats
 
 <div align="center">
 
@@ -61,8 +59,9 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 <table>
   <tr>
     <td align="center">
-      <p><b>Entendendo Algoritmos</b></p>
       <img src="img/entendendo.jpg" width="120" alt="Capa de Entendendo Algoritmos"/>
+      <br><br>
+      <b>Entendendo Algoritmos</b>
     </td>
   </tr>
 </table>
@@ -71,14 +70,14 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 
 <br>
 
-## 🌐 Entre em contato comigo
+## 🌐 Vamos conversar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rolando-22061137a/)
-[![Gmail](https://img.shields.io/badge/Gmail-0066FF?style=flat-square&logo=gmail&logoColor=white)](mailto:danielgomesrolando@gmail.com)
-[![X](https://img.shields.io/badge/X-0066FF?style=flat-square&logo=x&logoColor=white)](https://x.com/taronukem)
-[![Instagram](https://img.shields.io/badge/Instagram-0066FF?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rolando-22061137a/)
+[![Gmail](https://img.shields.io/badge/Gmail-0066FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danielgomesrolando@gmail.com)
+[![X](https://img.shields.io/badge/X-0066FF?style=for-the-badge&logo=x&logoColor=white)](https://x.com/taronukem)
+[![Instagram](https://img.shields.io/badge/Instagram-0066FF?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taronukem)
 
 </div>
 
@@ -86,7 +85,8 @@ Esse é meu cantinho por aqui. Fica à vontade pra dar uma olhada nos meus proje
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=600&lines=Obrigado+pela+visita!;Volte+sempre!;Você+erra+100%25+dos+arremessos+que+não+tenta)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0066FF&height=120&section=footer)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0066FF&center=true&vCenter=true&width=700&lines=Obrigado+pela+visita!+💙;Volte+sempre!;Você+erra+100%25+dos+arremessos+que+não+tenta+🏀)](https://github.com/TaroNukem)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer)
 
 </div>

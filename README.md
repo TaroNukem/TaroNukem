@@ -104,19 +104,26 @@ public class Daniel {
 <br>
 
 ## 🎧 Trilha sonora do código
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=mv4haekj7ewojog7mim777mw3&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
-<br>
 
 <table>
-<tr>
-<td align="center">
-<img alt="Tocando agora" width="250px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0A0F1F&bar_color=0066FF&bar_color_cover=false&interchange=false"/>
-</td>
-<td align="center">
-<img alt="Tocadas recentemente" width="275px" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=mv4haekj7ewojog7mim777mw3&count=10&width=540&radius=40&unique=1&duration=1&album=1&footer=wave"/>
-</td>
-</tr>
+  <tr>
+    <td align="center">
+      <img
+        alt="Tocando agora"
+        width="250"
+        src="https://spotify-github-profile.kittinanx.com/api/view?uid=mv4haekj7ewojog7mim777mw3&cover_image=true&theme=default&show_offline=false&background_color=0A0F1F&bar_color=0066FF&bar_color_cover=false&interchange=false"
+      />
+    </td>
+    <td align="center">
+      <img
+        alt="Tocadas recentemente"
+        width="275"
+        src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=mv4haekj7ewojog7mim777mw3&count=10&width=540&radius=10&unique=1&duration=1&album=1&footer=wave&bg_color=0A0F1F"
+      />
+    </td>
+  </tr>
 </table>
+
 
 </details>
 

@@ -22,7 +22,32 @@ Tenho buscado aprofundar meus conhecimentos em programação, orientação a obj
 
 Atualmente, busco uma oportunidade de estágio ou minha primeira experiência profissional na área de desenvolvimento de software.
 
+
+
+
+```
+
+public class Daniel {
+
+    private final String curso = "Engenharia de Software";
+    private final String instituicao = "PUC Minas";
+    private final String cidade = "Belo Horizonte, MG";
+
+    private final String[] tecnologias = {
+        "Java", "Spring Boot", "React"
+    };
+
+    public String objetivo() {
+        return "Estágio em desenvolvimento de software";
+    }
+}
+
+```
+
+
+
 <br>
+
 
 ## 🛠️ Tecnologias
 

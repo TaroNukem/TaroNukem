@@ -1,8 +1,12 @@
- <div align="center">
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:0066FF,100:0A0F1F&height=240&section=header&text=Daniel%20Rolando&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Java%20%E2%80%A2%20Spring%20Boot%20%E2%80%A2%20React&descAlignY=60&descSize=20)
+<img src="img/banner.png" width="100%" alt="Daniel Rolando - GitHub Banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066FF&center=true&vCenter=true&width=700&lines=Daniel+Rolando;Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+React;Building+and+learning+every+day)](https://github.com/TaroNukem)
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+React;Building+and+learning+every+day)](https://github.com/TaroNukem)
+
+</div>
 
 <a href="https://portifolio-r27e.onrender.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0066FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio" /></a>
 <a href="https://www.linkedin.com/in/daniel-gomes-rolando"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

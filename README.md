@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="img/banner.png" width="100%" alt="Daniel Rolando - GitHub Banner" />
+<img src="img/banner-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
 
 <br><br>
 

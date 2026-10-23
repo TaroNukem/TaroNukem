@@ -154,5 +154,5 @@ public class Daniel {
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066FF,100:0A0F1F&height=120&section=footer" alt="footer" />
+  <img src="img/footer-thanks-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
 </p>

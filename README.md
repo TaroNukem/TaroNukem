@@ -108,6 +108,10 @@ public class Daniel {
 
 <br>
 
+<p align="center">
+  <img src="img/my-personal-things-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
+</p>
+
 <h2 align="center">🎧 Trilha sonora do código</h2>
 
 <p align="center">

@@ -13,6 +13,9 @@
 <a href="mailto:danielgomesrolando@gmail.com"><img src="https://img.shields.io/badge/Email-0066FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/taronukem"><img src="https://img.shields.io/badge/X-0066FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 <a href="https://instagram.com/taronukem"><img src="https://img.shields.io/badge/Instagram-0066FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://wa.me/5531985395309"><img src="https://img.shields.io/badge/WhatsApp-0066FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+<a href="https://discord.com/users/423512647221248000"><img src="https://img.shields.io/badge/Discord-taronukem-0066FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0066FF" alt="Discord" /></a>
+<a href="https://leetcode.com/u/TaroNukem/"><img src="https://img.shields.io/badge/LeetCode-0066FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
@@ -34,7 +37,7 @@ public class Daniel {
     private final String cidade = "Belo Horizonte, MG";
 
     private final String[] tecnologias = {
-        "Java", "Spring Boot", "React"
+        "Java", "Spring Boot", "React", "TypeScript"
     };
 
     public String objetivo() {
@@ -50,12 +53,17 @@ public class Daniel {
 <p align="center">
   <img src="https://img.shields.io/badge/Java-0066FF?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-0066FF?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Maven-0066FF?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
   <img src="https://img.shields.io/badge/React-0066FF?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-0066FF?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-0066FF?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vite-0066FF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Node.js-0066FF?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-0066FF?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Thymeleaf-0066FF?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
   <img src="https://img.shields.io/badge/HTML5-0066FF?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-0066FF?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Figma-0066FF?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Git-0066FF?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0066FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
@@ -151,6 +159,9 @@ public class Daniel {
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-gomes-rolando"><img src="https://img.shields.io/badge/LinkedIn-0066FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:danielgomesrolando@gmail.com"><img src="https://img.shields.io/badge/Gmail-0066FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://wa.me/5531985395309"><img src="https://img.shields.io/badge/WhatsApp-0066FF?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://discord.com/users/423512647221248000"><img src="https://img.shields.io/badge/Discord-taronukem-0066FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=0066FF" alt="Discord" /></a>
+  <a href="https://leetcode.com/u/TaroNukem/"><img src="https://img.shields.io/badge/LeetCode-0066FF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="https://x.com/taronukem"><img src="https://img.shields.io/badge/X-0066FF?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/taronukem"><img src="https://img.shields.io/badge/Instagram-0066FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>

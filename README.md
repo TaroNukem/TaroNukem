@@ -98,16 +98,16 @@ public class Daniel {
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TaroNukem&layout=pie&langs_count=8&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF" alt="Gráfico de pizza das linguagens mais utilizadas no GitHub" />
-</p>
-
-<p align="center">
   <a href="https://github.com/TaroNukem">
     <img height="180" src="https://github-stats-extended.vercel.app/api?username=TaroNukem&show_icons=true&hide_border=false&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF&icon_color=0066FF&ring_color=0066FF" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/TaroNukem">
     <img height="180" src="https://streak-stats.demolab.com/?user=TaroNukem&background=0A0F1F&border=0066FF&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakNum=4DA3FF&sideNums=4DA3FF&currStreakLabel=0066FF&sideLabels=0066FF&dates=4DA3FF" alt="GitHub Streak" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TaroNukem&layout=pie&langs_count=8&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF" alt="Gráfico de pizza das linguagens mais utilizadas no GitHub" />
 </p>
 
 <br>

@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img src="img/banner-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
 
@@ -74,10 +74,10 @@ public class Daniel {
 
 <p align="center">
   <a href="https://github.com/TaroNukem/Portifolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaroNukem&repo=Portifolio&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Portfólio" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TaroNukem&repo=Portifolio&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Projeto Portfólio" />
   </a>
   <a href="https://github.com/TaroNukem/Biblioteca-de-Jogos">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TaroNukem&repo=Biblioteca-de-Jogos&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Biblioteca de Jogos" />
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TaroNukem&repo=Biblioteca-de-Jogos&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Projeto Biblioteca de Jogos" />
   </a>
 </p>
 
@@ -85,9 +85,15 @@ public class Daniel {
 
 <h2 align="center">📊 Estatísticas</h2>
 
+<h3 align="center">Linguagens dos repositórios</h3>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TaroNukem&layout=pie&langs_count=8&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF" alt="Gráfico de pizza das linguagens mais utilizadas no GitHub" />
+</p>
+
 <p align="center">
   <a href="https://github.com/TaroNukem">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=TaroNukem&show_icons=true&hide_border=false&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF&icon_color=0066FF&ring_color=0066FF" alt="GitHub Stats" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=TaroNukem&show_icons=true&hide_border=false&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF&icon_color=0066FF&ring_color=0066FF" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/TaroNukem">
     <img height="180" src="https://streak-stats.demolab.com/?user=TaroNukem&background=0A0F1F&border=0066FF&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakNum=4DA3FF&sideNums=4DA3FF&currStreakLabel=0066FF&sideLabels=0066FF&dates=4DA3FF" alt="GitHub Streak" />
@@ -117,7 +123,7 @@ public class Daniel {
 <br>
 
 <p align="center">
-  <img src="img/my-personal-things-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
+  <img src="img/my-personal-things-squiggle.svg" width="100%" alt="Daniel Rolando - Personal Interests" />
 </p>
 
 <h2 align="center">🎧 Trilha sonora do código</h2>
@@ -169,5 +175,5 @@ public class Daniel {
 <br>
 
 <p align="center">
-  <img src="img/footer-thanks-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
+  <img src="img/footer-thanks-squiggle.svg" width="100%" alt="Obrigado por visitar meu perfil" />
 </p>

@@ -85,7 +85,17 @@ public class Daniel {
 
 <h2 align="center">📊 Estatísticas</h2>
 
-<h3 align="center">Linguagens dos repositórios</h3>
+<p align="center">
+  <a href="https://wakatime.com/@b860e6a6-2e86-4589-9069-df3ceeda98b1">
+    <img src="https://wakatime.com/badge/user/b860e6a6-2e86-4589-9069-df3ceeda98b1.svg" alt="WakaTime" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://nice-readme.vercel.app/wakatime">
+    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&layout=compact&display_format=time&card_width=466&line_height=25&langs_count=8&hide_title=true&hide=Markdown,XML,Bash,Text,CSV,GitIgnore%20file,Git,JSON,YAML,TOML,Properties,Java%20Properties,Dockerfile,env,.env%20file&theme=dark&border_color=0066FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&ring_color=0080FF" alt="WakaTime Stats" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=TaroNukem&layout=pie&langs_count=8&bg_color=0A0F1F&border_color=0066FF&title_color=0066FF&text_color=4DA3FF" alt="Gráfico de pizza das linguagens mais utilizadas no GitHub" />
@@ -97,18 +107,6 @@ public class Daniel {
   </a>
   <a href="https://github.com/TaroNukem">
     <img height="180" src="https://streak-stats.demolab.com/?user=TaroNukem&background=0A0F1F&border=0066FF&stroke=0066FF&ring=0066FF&fire=0066FF&currStreakNum=4DA3FF&sideNums=4DA3FF&currStreakLabel=0066FF&sideLabels=0066FF&dates=4DA3FF" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@b860e6a6-2e86-4589-9069-df3ceeda98b1">
-    <img src="https://wakatime.com/badge/user/b860e6a6-2e86-4589-9069-df3ceeda98b1.svg" alt="WakaTime" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://nice-readme.vercel.app/wakatime">
-    <img src="https://helio-github-stats.vercel.app/api/wakatime?username=b860e6a6-2e86-4589-9069-df3ceeda98b1&layout=compact&display_format=time&card_width=466&line_height=25&langs_count=8&hide_title=true&hide=Markdown,XML,Bash,Text,CSV,GitIgnore%20file,Git,JSON,YAML,TOML,Properties,Java%20Properties,Dockerfile,env,.env%20file&theme=dark&border_color=0066FF&title_color=0080FF&text_color=0080FF&icon_color=0080FF&ring_color=0080FF" alt="WakaTime Stats" />
   </a>
 </p>
 

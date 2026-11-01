@@ -73,6 +73,9 @@ public class Daniel {
 <h2 align="center">📂 Projetos</h2>
 
 <p align="center">
+  <a href="https://github.com/TaroNukem/Deu-Partida">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=TaroNukem&repo=Deu-Partida&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Projeto Deu Partida" />
+  </a>
   <a href="https://github.com/TaroNukem/Portifolio">
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=TaroNukem&repo=Portifolio&theme=tokyonight&border_color=0066FF&hide_border=false" alt="Projeto Portfólio" />
   </a>

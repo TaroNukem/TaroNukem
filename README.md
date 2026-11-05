@@ -2,7 +2,8 @@
 
 <img src="img/banner-squiggle.svg" width="100%" alt="Daniel Rolando - GitHub Banner" />
 
-<br><br>
+<br>
+<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Java+%7C+Spring+Boot+%7C+React;Building+and+learning+every+day)](https://github.com/TaroNukem)
 
